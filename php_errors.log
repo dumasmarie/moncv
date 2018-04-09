@@ -1,0 +1,25 @@
+[26-Feb-2018 14:16:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Input\ArgvInput' not found in /home/ubuntu/workspace/dumamari_symfony/bin/console:17
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/dumamari_symfony/bin/console on line 17
+[26-Feb-2018 14:16:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Input\ArgvInput' not found in /home/ubuntu/workspace/dumamari_symfony/bin/console:17
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/dumamari_symfony/bin/console on line 17
+[26-Feb-2018 14:17:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Input\ArgvInput' not found in /home/ubuntu/workspace/dumamari_symfony/bin/console:17
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/dumamari_symfony/bin/console on line 17
+[26-Feb-2018 14:17:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Input\ArgvInput' not found in /home/ubuntu/workspace/dumamari_symfony/bin/console:17
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/dumamari_symfony/bin/console on line 17
+[26-Feb-2018 14:17:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Input\ArgvInput' not found in /home/ubuntu/workspace/dumamari_symfony/bin/console:17
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/dumamari_symfony/bin/console on line 17
+[26-Feb-2018 14:20:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Debug\Debug' not found in /home/ubuntu/workspace/web/app_dev.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/web/app_dev.php on line 23
+[26-Mar-2018 12:46:40 UTC] PHP Fatal error:  Cannot declare class AppBundle\Entity\loisir, because the name is already in use in /home/ubuntu/workspace/src/AppBundle/Entity/Loisirs.php on line 10

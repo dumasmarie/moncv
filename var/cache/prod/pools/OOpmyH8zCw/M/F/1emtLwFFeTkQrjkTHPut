@@ -1,0 +1,4 @@
+<?php return array (
+  0 => 9223372036854775807,
+  1 => 'O:57:"ApiPlatform\\Core\\Metadata\\Resource\\ResourceNameCollection":1:{s:66:"' . "\0" . 'ApiPlatform\\Core\\Metadata\\Resource\\ResourceNameCollection' . "\0" . 'classes";a:1:{i:0;s:26:"AppBundle\\Entity\\Formation";}}',
+);
